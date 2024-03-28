@@ -1,0 +1,47 @@
+/* Gilroy */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy/Gilroy-Regular.ttf');
+    src: local('Gilroy-Regular'), local('Gilroy Regular'),
+        url('../fonts/Gilroy/Gilroy-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy/Gilroy-Medium.ttf');
+    src: local('Gilroy-Medium'), local('Gilroy Medium'),
+        url('../fonts/Gilroy/Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy/Gilroy-Bold.ttf');
+    src: local('Gilroy-Bold'), local('Gilroy Bold'),
+        url('../fonts/Gilroy/Gilroy-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy/Gilroy-ExtraBold.ttf');
+    src: local('Gilroy-ExtraBold'), local('Gilroy ExtraBold'),
+        url('../fonts/Gilroy/Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-stretch: normal;
+}
+
+/* Chronicle Display */
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('../fonts/ChronicleDisplay/Chronicle\ Display\ Semibold.otf');
+    font-weight: 600;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('../fonts/ChronicleDisplay/Chronicle\ Display\ Bold.otf');
+    font-weight: 700;
+    font-stretch: normal;
+}
